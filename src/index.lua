@@ -225,7 +225,7 @@ end
 SetThemeColor()
 
 -- Speed related settings
-local cpu_speed = 333
+local cpu_speed = 500
 System.setBusSpeed(222)
 System.setGpuSpeed(222)
 System.setGpuXbarSpeed(166)
